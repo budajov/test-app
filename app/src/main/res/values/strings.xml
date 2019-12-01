@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">smallpdf-testapp</string>
+    <string name="show_repos">Show Repos</string>
+    <string name="some_title">Some Title</string>
+    <string name="something_went_wrong">Something went wrong...</string>
+    <string name="check_internet_connection">Check internet connection</string>
+    <string name="user_details">User Details</string>
+    <string name="company">Comapny</string>
+    <string name="user_repos">User Repos</string>
+    <string name="commits">Commits</string>
+    <string name="comments">Comments: %1$d</string>
+</resources>
